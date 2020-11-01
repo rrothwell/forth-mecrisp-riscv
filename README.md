@@ -1,4 +1,4 @@
-# forth-mecrisp-riscv
+# Mecrisp Forth on Risc V
 
 ## Intent
 
