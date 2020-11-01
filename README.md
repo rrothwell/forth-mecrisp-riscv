@@ -18,7 +18,13 @@ Debian in a Docker Container hosted on MacOS.
 Start the container:
 
 ```bash
-docker run --name forth-mecrisp-riscv -h forth-mecrisp-riscv -v /host_mnt/Users/<user-name-here-0>/development/mecrisp:/home/<user-name-here-1>/src -e LANG=C.UTF-8 -it debian  /bin/bash -l
+docker run 
+    --name forth-mecrisp-riscv \
+    -h forth-mecrisp-riscv \
+    -v /host_mnt/Users/<user-name-here-0>/development/mecrisp:/home/<user-name-here-1>/src \
+    -e LANG=C.UTF-8 \
+    -it debian  
+    /bin/bash -l
 ```
 
 
