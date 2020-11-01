@@ -64,7 +64,7 @@ ls -al
 ## Deployment
 
 ### HiFive
-![HiFive1 Rev B]( "HiFive1 Rev B")
+![HiFive1 Rev B](HiFive1B-thumbnail.JPG "HiFive1 Rev B")
 
 ## Resources
 
