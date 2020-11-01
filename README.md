@@ -13,6 +13,11 @@ This document will test the state of development of one forth, [Mecrisp Quintus]
 
 ## Development Environment
 
+For development a Linux environment seems to be preferred, 
+so this is setup in a docker container. 
+This is only needed if new binaries are required.
+The basic distribution comes with pre-assembled binaries as .hex and .bin files.
+
 ### Debian in a Docker Container hosted on MacOS.
 
 Download the [code](https://sourceforge.net/projects/mecrisp/files/mecrisp-quintus-0.29-experimental.tar.gz/download) (or later version) into directory /Users/<user-name-here-0>/development/mecrisp. Unpack the archive file.
@@ -51,6 +56,9 @@ apt-get install make
 # All the others supported are shown in the assemble script file.
 cat README | assemble
 ./assemble hifive1B
+# List the files to see if they have been updated.
+# The mecrisp-quintus-hifive1B.bin and mecrisp-quintus-hifive1B.hex should have their creation dates rrfreshed.
+ls -al
 
 ```
 
