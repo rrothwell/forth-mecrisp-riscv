@@ -46,6 +46,11 @@ cat README | more
 apt-get update
 apt-get install binutils-riscv64-linux-gnu binutils-mipsel-linux-gnu qemu-user-static srecord
 # Ignore irrelevant warnings following: mount: /proc/sys/fs/binfmt_misc: permission denied
+apt-get install make
+# The Risc V processor SBC to be targeted is the hifive1B. 
+# All the others supported are shown in the assemble script file.
+cat README | assemble
+./assemble hifive1B
 
 ```
 
@@ -58,3 +63,4 @@ apt-get install binutils-riscv64-linux-gnu binutils-mipsel-linux-gnu qemu-user-s
 | Download |  [Mecrisp Sources](https://sourceforge.net/projects/mecrisp/) |
 | Forth Glossary |  [Mecrisp Forth Glossary](https://mecrisp-stellaris-folkdoc.sourceforge.io/gd32vf103.html) |
 | Documentation |  [Mecrisp Unofficial Documentation: GD32VF103](https://mecrisp-stellaris-folkdoc.sourceforge.io/gd32vf103.html) |
+| Forum | [Mecrisp Forum](https://sourceforge.net/p/mecrisp/discussion/general/) |
