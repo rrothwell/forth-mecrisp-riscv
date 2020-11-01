@@ -61,7 +61,9 @@ cat README | assemble
 ls -al
 
 ```
+## Deployment
 
+### 
 
 ## Resources
 
@@ -74,3 +76,4 @@ ls -al
 | Forum | [Mecrisp Forum](https://sourceforge.net/p/mecrisp/discussion/general/) |
 | Discussions | [Discussion 1](https://sourceforge.net/p/mecrisp/discussion/general/thread/3a0c2e6e3f/) |
 | Flashing chip | [Flashing Mecrisp Stellaris](https://mecrisp-stellaris-folkdoc.sourceforge.io/flashing-mecrisp_stellaris.html)
+| Flashing chip| [HiFive1 Rev B Getting Started Guide](https://sifive.cdn.prismic.io/sifive%2F8d7b8385-64e3-4914-8608-8568412c8aae_hifive1b-getting-started-guide.pdf) |
