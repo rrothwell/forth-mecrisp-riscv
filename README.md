@@ -64,3 +64,5 @@ cat README | assemble
 | Forth Glossary |  [Mecrisp Forth Glossary](https://mecrisp-stellaris-folkdoc.sourceforge.io/gd32vf103.html) |
 | Documentation |  [Mecrisp Unofficial Documentation: GD32VF103](https://mecrisp-stellaris-folkdoc.sourceforge.io/gd32vf103.html) |
 | Forum | [Mecrisp Forum](https://sourceforge.net/p/mecrisp/discussion/general/) |
+| Discussions | [Discussion 1](https://sourceforge.net/p/mecrisp/discussion/general/thread/3a0c2e6e3f/) |
+| Flashing chip | [Flashing Mecrisp Stellaris](https://mecrisp-stellaris-folkdoc.sourceforge.io/flashing-mecrisp_stellaris.html)
