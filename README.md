@@ -32,4 +32,7 @@ docker run
 
 | *Resource* | *URL* |
 | ---------- | ----- |
-| Download |  [Mecrisp Quintus](https://sourceforge.net/projects/mecrisp/ |
+| Platforms | [All Mecrisp Forth Supported Platforms](http://mecrisp.sourceforge.net) |
+| Download |  [Mecrisp Sources](https://sourceforge.net/projects/mecrisp/ |
+| Forth Glossary |  [Mecrisp Forth Glossary](https://mecrisp-stellaris-folkdoc.sourceforge.io/gd32vf103.html |
+| Documentation |  [Mecrisp Unofficial Documentation: GD32VF103](https://mecrisp-stellaris-folkdoc.sourceforge.io/gd32vf103.html |
